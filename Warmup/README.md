@@ -8,4 +8,4 @@ Syntax:$
 
 <hr>
 
-In Discord channel of vishwaCTF , go to bot-spam channel and get the flag .
+In Discord channel of vishwaCTF , go to bot-spam channel and get the flag by $flag.
